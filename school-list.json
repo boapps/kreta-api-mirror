@@ -25509,17 +25509,6 @@
     }
   },
   {
-    "InstituteId": 2333,
-    "InstituteCode": "klik032223002",
-    "Name": "Bárnai Általános Iskola",
-    "Url": "https://klik032223002.e-kreta.hu",
-    "City": "Bárna",
-    "AdvertisingUrl": "https://kretamobile.blob.core.windows.net/advertisement/index2.html",
-    "FeatureToggleSet": {
-      "JustificationFeatureEnabled": "false"
-    }
-  },
-  {
     "InstituteId": 2334,
     "InstituteCode": "klik201214005",
     "Name": "Bartók Térségi Általános Iskola Alapfokú Művészeti Iskola Tagintézménye",
