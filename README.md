@@ -1,3 +1,5 @@
+DEPRECATED!
+
 ezt használjátok inkább: http://e-szivacs.org/mirror/school-list.json
 
 
